@@ -1,3 +1,8 @@
+
+
+<img width="1024" height="550" alt="image" src="https://github.com/user-attachments/assets/92270d81-2071-4331-931a-d41382392730" />
+
+
 <h1 align="center">TryHackMe Cybersecurity Labs</h1>
 
 <p align="center">
