@@ -26,6 +26,13 @@
 
 ---
 
+## Setup TryHackMe with OpenVPN:
+
+[Setup OpenVPN on TryHackMe](https://github.com/user-attachments/files/31330566/OpenVPN_TryHackme.pdf)
+
+
+---
+
 ## About This Repository
 
 This repository documents my hands-on cybersecurity learning journey through
