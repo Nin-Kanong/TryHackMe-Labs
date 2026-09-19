@@ -360,7 +360,7 @@ and selected penetration-testing writeups.
 | Area | Status |
 |---|---|
 | Cyber Security 101 | In Progress |
-| Junior Penetration Tester | In Progress |
+| [Junior Penetration Tester](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester) | In Progress |
 | Web Application Pentesting | Planned |
 | Web Application Red Teaming | Planned |
 | Red Teaming | Planned |
