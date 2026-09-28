@@ -31,6 +31,10 @@
 
 https://tryhackme.com/p/k4n0ng
 
+
+<img width="1175" height="288" alt="image" src="https://github.com/user-attachments/assets/0c91d456-cdbf-402a-8214-51ada4e0671e" />
+
+
 ---
 
 ## Setup TryHackMe with OpenVPN:
