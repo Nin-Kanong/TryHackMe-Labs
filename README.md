@@ -141,26 +141,28 @@ and selected penetration-testing writeups.
 <br>
 
 <details>
-<summary><b>01. Junior Penetration Tester</b> — In Progress</summary>
+<summary><b>01. Junior Penetration Tester</b> Nearly Completed (98%)</summary>
 
-01. Start Your Cyber Security Journey  
-02. Penetration Testing Foundations  
-03. Network Reconnaissance  
-04. Nmap  
-05. Web Application Security Fundamentals  
-06. Burp Suite  
-07. Web Application Vulnerabilities I  
-08. Web Application Vulnerabilities II  
-09. Vulnerability Knowledge  
-10. OWASP Top 10 (2025)  
-11. Password Attacks  
-12. Metasploit and Exploitation  
-13. Privilege Escalation  
-14. Active Directory Security Testing Basics  
-15. Specialized Domains  
-16. Python Scripting Basics  
-17. Pentesting Methodologies and Reporting  
-18. Jr Pentester Challenges
+
+- [01. Start Your Cyber Security Journey](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/01.%20Start%20Your%20Cyber%20Security%20Journey)
+- [02. Penetration Testing Foundations](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/02.%20Penetration%20Testing%20Foundation)
+- [03. Network Reconnaissance](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/03.%20Network%20Reconnaissance)
+- [04. Nmap](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/04.%20Nmap)
+- [05. Web Application Security Fundamentals](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/05.%20Web%20Application%20Security%20Fundamentals)
+- [06. Burp Suite](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/06.%20Burp%20Suite)
+- [07. Web Application Vulnerabilities I](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/07.%20Web%20Application%20Vulnerabilities%20I)
+- [08. Web Application Vulnerabilities II](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/08.%20Web%20Application%20Vulnerabilities%20II)
+- [09. Vulnerability Knowledge](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/09.%20Vulnerability%20Knowledge)
+- [10. OWASP Top 10 (2025)](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/10.%20OWASP%20Top%2010%20(2025))
+- [11. Password Attacks](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/11.%20Password%20Attacks)
+- [12. Metasploit and Exploitation](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/12.%20Metasploit%20and%20Exploitation)
+- [13. Privilege Escalation](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/13.%20Privilege%20Escalation)
+- [14. Active Directory Security Testing Basics](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/14.%20%20Active%20Directory%20Security%20Testing%20Basics)
+- [15. Specialized Domains](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/15.%20Specialized%20Domains)
+- [16. Python Scripting Basics](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/16.%20Python%20Scripting%20Basics)
+- [17. Pentesting Methodologies and Reporting](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/17.%20Pentesting%20Methodologies%20%20and%20Reporting)
+- [18. Jr Pentester Challenges](https://github.com/Nin-Kanong/TryHackMe-Labs/tree/main/02.%20Offensive%20Security/01.%20Junior%20Penetration%20Tester/18.%20Jr%20Pentester%20Challenges)
+
 
 > **Current focus:** Penetration Testing  
 >
