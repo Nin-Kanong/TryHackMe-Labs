@@ -174,7 +174,7 @@ and selected penetration-testing writeups.
 <br>
 
 <details>
-<summary><b>02. Web Application Pentesting</b> — Planned</summary>
+<summary><b>02. Web Application Pentesting</b> - Planned</summary>
 
 01. Authentication  
 02. Injection Attacks  
@@ -188,7 +188,7 @@ and selected penetration-testing writeups.
 <br>
 
 <details>
-<summary><b>03. Web Application Red Teaming</b> — Planned</summary>
+<summary><b>03. Web Application Red Teaming</b> - Planned</summary>
 
 01. Cryptographic Failures  
 02. Custom Tooling  
@@ -201,7 +201,7 @@ and selected penetration-testing writeups.
 <br>
 
 <details>
-<summary><b>04. Red Teaming</b> — Planned</summary>
+<summary><b>04. Red Teaming</b> - Planned</summary>
 
 01. Red Team Fundamentals  
 02. Initial Access  
@@ -217,7 +217,7 @@ and selected penetration-testing writeups.
 ---
 
 <details>
-<summary><b>03. Defensive Security & Security Analyst</b> — Planned</summary>
+<summary><b>03. Defensive Security & Security Analyst</b> - Planned</summary>
 
 <br>
 
@@ -297,7 +297,7 @@ and selected penetration-testing writeups.
 ---
 
 <details>
-<summary><b>04. Security Engineer</b> — Planned</summary>
+<summary><b>04. Security Engineer</b> - Planned</summary>
 
 <br>
 
@@ -344,7 +344,7 @@ and selected penetration-testing writeups.
 ---
 
 <details>
-<summary><b>05. AI Security</b> — Planned</summary>
+<summary><b>05. AI Security</b> - Planned</summary>
 
 <br>
 
