@@ -33,7 +33,8 @@
 [Click This To See My Profile TryHackMe](https://tryhackme.com/p/k4n0ng?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=976ff4daeda0&utm_source=copy&sharerId=67811680a08b27e41e9a072e)
 
 
-<img width="1035" height="876" alt="image" src="https://github.com/user-attachments/assets/26c4d77f-d550-4634-9d38-6ba8ff3abe50" />
+<img width="984" height="882" alt="image" src="https://github.com/user-attachments/assets/467bb35f-44db-4c45-b736-3430204b1355" />
+
 
 
 
